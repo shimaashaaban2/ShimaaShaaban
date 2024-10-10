@@ -5,5 +5,4 @@
 ####  🌱 I’m currently learning Web Development Technologies.
 ####  👯 I’m looking to collaborate with other developers.
 ####  💬 Ask me about Software Engineering and Web Development.
-####  📫 How to reach me: [shimaashaaban238@gmail.com]
-
+####  📫 How to reach me: shimaashaaban238@gmail.com.
