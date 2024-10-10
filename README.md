@@ -7,3 +7,9 @@
 <li>👯 I’m looking to collaborate with other developers.</li> 
 <li>💬 Ask me about Software Engineering and Web Development.</li>  
 <li>📫 How to reach me: shimaashaaban238@gmail.com.</li> 
+# ⚡ Technologies
+ C#  Asp.NET Fremework Asp.NET Core Javascript C++ HTML5 CSS3
+ JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS
+ 
+## Find me around the web 🌎
+ [Hackerrank](https://www.hackerrank.com/profile/shimaashaaban238) [CodeForces](https://codeforces.com/profile/shimaa31)
