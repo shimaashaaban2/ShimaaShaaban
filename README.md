@@ -14,7 +14,7 @@
 
 ##  ⚡ Technologies
 
-[lang img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fauth0.com%2Fblog%2Ffive-csharp-features-you-dont-know%2F&psig=AOvVaw0xA_lX2R4yYMAWuBO85jor&ust=1728735167592000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCmguKmhokDFQAAAAAdAAAAABAE) C#  Asp.NET Framework Asp.NET Core Javascript C++ HTML5 CSS3
+[langimg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fauth0.com%2Fblog%2Ffive-csharp-features-you-dont-know%2F&psig=AOvVaw0xA_lX2R4yYMAWuBO85jor&ust=1728735167592000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCmguKmhokDFQAAAAAdAAAAABAE) C#  Asp.NET Framework Asp.NET Core Javascript C++ HTML5 CSS3
   
 JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS
  
