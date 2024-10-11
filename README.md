@@ -14,8 +14,8 @@
 
 ##  ⚡ Technologies
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width=60 height=60 alt="c#"/><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=60 height=60 /> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=60 height=60 alt="JavaScript"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=60 height=60 /><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=60 height=60/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=60 height=60 alt="JavaScript"/><img src="https://cdn.worldvectorlogo.com/logos/jquery-3.svg" width=60 height=60/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=60 height=60 /><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=60 height=60/>
+
 
 
   
