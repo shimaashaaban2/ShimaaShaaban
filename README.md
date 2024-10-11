@@ -14,7 +14,7 @@
 
 ##  ⚡ Technologies
 
- C#  Asp.NET Framework Asp.NET Core Javascript C++ HTML5 CSS3
+	(#A020F0 C# ) Asp.NET Framework Asp.NET Core Javascript C++ HTML5 CSS3
   
 JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS
  
