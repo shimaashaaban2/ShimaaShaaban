@@ -13,12 +13,12 @@
 📫 How to reach me: shimaashaaban238@gmail.com 
 
 ##  ⚡ Technologies
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width=80 height=80 alt="c#"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=60 height=60 alt="JavaScript"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=60 height=60 />
-, Asp.NET Framework, Asp.NET Core,
- Javascript,C++,HTML5,CSS3
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width=80 height=80 alt="c#"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=60 height=60 alt="JavaScript"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=60 height=60 /> 
+
   
-JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS
+
  
 ## Find me around the web 🌎
 
