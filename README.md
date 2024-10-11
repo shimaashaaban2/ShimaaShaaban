@@ -15,7 +15,7 @@
 ##  ⚡ Technologies
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width=80 height=80 alt="c#"/><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=60 height=60 /> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=60 height=60 alt="JavaScript"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=60 height=60 />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=60 height=60 /><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=60 height=60/>
 
 
   
