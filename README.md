@@ -6,7 +6,7 @@
 <li> 🌱 I’m currently learning Web Development Technologies.</li>
 <li>👯 I’m looking to collaborate with other developers.</li> 
 <li>💬 Ask me about Software Engineering and Web Development.</li>  
-<li>📫 How to reach me: shimaashaaban238@gmail.com.</li> 
+<li>📫 How to reach me: (shimaashaaban238@gmail.com.)</li> 
 
 ##  ⚡ Technologies
 
