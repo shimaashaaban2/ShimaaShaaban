@@ -19,5 +19,7 @@
 JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS
  
 ## Find me around the web 🌎
-[-] [Hackerrank](https://www.hackerrank.com/profile/shimaashaaban238) 
-[-] [CodeForces](https://codeforces.com/profile/shimaa31)
+
+ [Hackerrank](https://www.hackerrank.com/profile/shimaashaaban238)
+ 
+[CodeForces](https://codeforces.com/profile/shimaa31)
