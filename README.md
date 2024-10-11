@@ -14,7 +14,7 @@
 
 ##  ⚡ Technologies
 
-![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png), Asp.NET Framework, Asp.NET Core, Javascript,C++,HTML5,CSS3
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width=100 height=100 alt="c#"/>, Asp.NET Framework, Asp.NET Core, Javascript,C++,HTML5,CSS3
   
 JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS
  
