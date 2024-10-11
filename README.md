@@ -10,8 +10,9 @@
 
 ##  ⚡ Technologies
 
- <li> C#  Asp.NET Fremework Asp.NET Core Javascript C++ HTML5 CSS3</li>
+ <li> C#  Asp.NET Framework Asp.NET Core Javascript C++ HTML5 CSS3</li>
 <li>JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS</li>
  
 ## Find me around the web 🌎
- [Hackerrank](https://www.hackerrank.com/profile/shimaashaaban238) [CodeForces](https://codeforces.com/profile/shimaa31)
+[-] [Hackerrank](https://www.hackerrank.com/profile/shimaashaaban238) 
+[-] [CodeForces](https://codeforces.com/profile/shimaa31)
