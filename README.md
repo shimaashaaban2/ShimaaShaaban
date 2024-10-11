@@ -10,12 +10,13 @@
 
 💬 Ask me about Software Engineering and Web Development. 
 
-📫 How to reach me: []shimaashaaban238@gmail.com 
+📫 How to reach me: shimaashaaban238@gmail.com 
 
 ##  ⚡ Technologies
 
- <li> C#  Asp.NET Framework Asp.NET Core Javascript C++ HTML5 CSS3</li>
-<li>JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS</li>
+ C#  Asp.NET Framework Asp.NET Core Javascript C++ HTML5 CSS3
+  
+JQuery  Ajax Docker Radis RabbitMQ  Microsoft SQLServer Amazon AWS
  
 ## Find me around the web 🌎
 [-] [Hackerrank](https://www.hackerrank.com/profile/shimaashaaban238) 
