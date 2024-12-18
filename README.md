@@ -1,5 +1,5 @@
 #  Hi, I'm Shimaa 👩‍💻
-[Gmail](shimaashaaban238@gmail.com) [LinkedIn](www.linkedin.com/in/shimaa-shaaban-83a56718b)
+[Gmail](shimaashaaban238@gmail.com)https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png [LinkedIn](www.linkedin.com/in/shimaa-shaaban-83a56718b)
 
 ## 👩‍💻 About me
 🔭 I’m currently working as a Junior Full Stack Developer at Edgecom Company
