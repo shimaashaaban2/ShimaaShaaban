@@ -1,6 +1,6 @@
 #  Hi, I'm Shimaa 👩‍💻
 [<img alt="image" src="https://github.com/user-attachments/assets/af130e76-eadc-4000-b7f3-e2790eb51f3c" height="40" width="40"/>
-](shimaashaaban238@gmail.com) [<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/20021038-b56a-49fd-a3b1-dc7bc800b6ae" />
+](shimaashaaban238@gmail.com) [<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/20021038-b56a-49fd-a3b1-dc7bc800b6ae" height="40" width="40" />
 ](www.linkedin.com/in/shimaa-shaaban-83a56718b)
 
 ## 👩‍💻 About me
