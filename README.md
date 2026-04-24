@@ -1,7 +1,7 @@
 #  Hi, I'm Shimaa 👩‍💻
 <div align="lefty">
  <img width="12"/>
- <a href="shimaashaaban238@gmail.com" style="text-decoration: none;> 
+ <a href="shimaashaaban238@gmail.com"> 
   <img alt="gmail" src="https://github.com/user-attachments/assets/af130e76-eadc-4000-b7f3-e2790eb51f3c" height="40" >
 </a>
   <img width="12"/>
