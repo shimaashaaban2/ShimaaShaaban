@@ -1,5 +1,6 @@
 #  Hi, I'm Shimaa 👩‍💻
-[Gmail](shimaashaaban238@gmail.com) [LinkedIn](www.linkedin.com/in/shimaa-shaaban-83a56718b)
+[<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/af130e76-eadc-4000-b7f3-e2790eb51f3c" />
+](shimaashaaban238@gmail.com) [LinkedIn](www.linkedin.com/in/shimaa-shaaban-83a56718b)
 
 ## 👩‍💻 About me
 🔭 I’m currently working as a Junior Full Stack Developer at Edgecom Company
@@ -38,7 +39,7 @@
 <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  height="80" />
 <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg"  height="95"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg"  height="100"/>
 <img width="12" />
 </div>
 
