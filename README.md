@@ -13,7 +13,7 @@
 📫 How to reach me: shimaashaaban238@gmail.com 
 
 ##  ⚡ Technologies
-
+<div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -32,7 +32,7 @@
 <img width="12" />
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width=80 height=80/>
 
-
+</div>
 
   
 
