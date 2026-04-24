@@ -19,14 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
-       <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=60 height=60 />
-   <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=60 height=60/>
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width=60 height=60 /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-colored-.svg" width=60 height=60/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-net.svg" width=60 height=60/>
 <img width="12" />
