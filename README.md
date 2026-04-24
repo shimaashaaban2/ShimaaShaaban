@@ -1,5 +1,5 @@
 #  Hi, I'm Shimaa 👩‍💻
-[<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/af130e76-eadc-4000-b7f3-e2790eb51f3c" height="40" width="12"/>
+[<img alt="image" src="https://github.com/user-attachments/assets/af130e76-eadc-4000-b7f3-e2790eb51f3c" height="40" width="12"/>
 ](shimaashaaban238@gmail.com) [LinkedIn](www.linkedin.com/in/shimaa-shaaban-83a56718b)
 
 ## 👩‍💻 About me
