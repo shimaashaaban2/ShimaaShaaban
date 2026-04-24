@@ -13,10 +13,14 @@
 📫 How to reach me: shimaashaaban238@gmail.com 
 
 ##  ⚡ Technologies
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=60 height=60 alt="Javascript"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=60 height=60 />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+       <img width="12" />
+   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=60 height=60 />
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=60 height=60/>
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width=60 height=60 /> 
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-colored-.svg" width=60 height=60/>
